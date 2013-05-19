@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Kevin's Blog]]></title>
-  <link href="http://ikevin.cn/atom.xml" rel="self"/>
-  <link href="http://ikevin.cn/"/>
-  <updated>2013-05-19T16:18:38+08:00</updated>
-  <id>http://ikevin.cn/</id>
+  <link href="http://ikevinwang.github.io/atom.xml" rel="self"/>
+  <link href="http://ikevinwang.github.io/"/>
+  <updated>2013-05-19T16:32:11+08:00</updated>
+  <id>http://ikevinwang.github.io/</id>
   <author>
     <name><![CDATA[Kevin Wang]]></name>
     
@@ -15,18 +15,18 @@
   
   <entry>
     <title type="html"><![CDATA[Good Tech]]></title>
-    <link href="http://ikevin.cn/blog/2013/05/19/good-tech/"/>
+    <link href="http://ikevinwang.github.io/blog/2013/05/19/good-tech/"/>
     <updated>2013-05-19T16:17:00+08:00</updated>
-    <id>http://ikevin.cn/blog/2013/05/19/good-tech</id>
+    <id>http://ikevinwang.github.io/blog/2013/05/19/good-tech</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[Hello World]]></title>
-    <link href="http://ikevin.cn/blog/2013/05/19/hello-world/"/>
+    <link href="http://ikevinwang.github.io/blog/2013/05/19/hello-world/"/>
     <updated>2013-05-19T15:15:00+08:00</updated>
-    <id>http://ikevin.cn/blog/2013/05/19/hello-world</id>
+    <id>http://ikevinwang.github.io/blog/2013/05/19/hello-world</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>

@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://ikevin.cn/sitemap.xml 
+Sitemap: http://ikevinwang.github.io/sitemap.xml 
