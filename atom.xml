@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Kevin's Blog]]></title>
+  <link href="http://ikevin.cn/atom.xml" rel="self"/>
+  <link href="http://ikevin.cn/"/>
+  <updated>2013-05-19T16:18:38+08:00</updated>
+  <id>http://ikevin.cn/</id>
+  <author>
+    <name><![CDATA[Kevin Wang]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Good Tech]]></title>
+    <link href="http://ikevin.cn/blog/2013/05/19/good-tech/"/>
+    <updated>2013-05-19T16:17:00+08:00</updated>
+    <id>http://ikevin.cn/blog/2013/05/19/good-tech</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Hello World]]></title>
+    <link href="http://ikevin.cn/blog/2013/05/19/hello-world/"/>
+    <updated>2013-05-19T15:15:00+08:00</updated>
+    <id>http://ikevin.cn/blog/2013/05/19/hello-world</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+</feed>
